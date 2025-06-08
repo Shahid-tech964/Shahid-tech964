@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">A passionate Mobile App Developer | Android + Flutter</h3>
+<h1 align="center">Hi 👋, I'm Shahid</h1>
+<h3 align="center">A passionate Mobile App Developer | Android (Kotlin + Jetpack) & Flutter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Building+Beautiful+Apps+with+Flutter+%26+Kotlin;Loves+Crafting+Smooth+UI%2FUX;Firebase+%7C+Git+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Mobile+App+Developer+%7C+Flutter+%2B+Kotlin;Jetpack+Compose+%7C+Firebase+%7C+Git+%7C+Postman;Clean+UI%2C+Smooth+UX%2C+Efficient+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently working on full-stack **mobile applications** using **Flutter** and **Jetpack Compose**
-- 💡 I enjoy solving problems & building intuitive mobile interfaces
-- 🚀 My goal is to build apps that **delight users and scale efficiently**
-- 🛠️ Passionate about open-source and continuous learning
+- 💼 I’m a dedicated **Mobile App Developer** specialized in building Android & Flutter apps
+- 🧠 I enjoy creating scalable, intuitive, and engaging user experiences
+- 🔥 Focused on Jetpack Compose, Firebase integration, REST APIs, and clean architecture
+- 💡 Constantly exploring new tools and trends in mobile development
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,androidstudio,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,androidstudio,jetpack,firebase,postman,git,github,vscode" />
 </p>
 
 ---
@@ -27,28 +27,24 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharDhir&show_icons=true&theme=tokyonight&hide=issues" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharDhir&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdshahid4789&show_icons=true&theme=tokyonight&hide=issues" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdshahid4789&theme=tokyonight" height="180em"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- 🔹 [**AniLab**](https://github.com/TusharDhir/AniLab) – Anime Info App with Jetpack Compose & Firebase
-- 🔹 [**Flutter Chat App**](https://github.com/TusharDhir/FlutterChatApp) – Real-time messaging app using Flutter + Firebase
-- 🔹 [**TaskMate**](https://github.com/TusharDhir/TaskMate) – Task manager with local storage (Room DB)
-
-> ✨ *More projects coming soon!*
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tushardhir/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white"></a>
-  <a href="mailto:tushardhir@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/TusharDhir"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohammadshahid01/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white">
+  </a>
+  <a href="mailto:mohd.shahid4789@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/mohdshahid4789">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -61,4 +57,3 @@ while (alive) {
     sleep()
     repeat()
 }
-

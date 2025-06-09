@@ -47,7 +47,7 @@ I’m a passionate **mobile app developer** who builds intuitive and scalable ap
   <a href="mailto:mohd.shahid4789@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/Shahid-tech964" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>

@@ -16,7 +16,7 @@ Speciality: Android with Jetpack Compose + Flutter
 Focus: Clean UI · Firebase Integration · REST APIs · Scalable Architecture
 ```
 
-I’m a passionate **mobile app developer** who builds intuitive and scalable applications using the best practices of **Kotlin** and **Flutter**. I love experimenting with **Jetpack Compose**, automating workflows, and delivering production-ready code.
+I’m a passionate **mobile app developer** who builds intuitive and scalable applications using **Kotlin** and **Flutter**. I love working with **Jetpack Compose**, integrating **Firebase**, and turning complex ideas into seamless experiences.
 
 ---
 
@@ -24,7 +24,7 @@ I’m a passionate **mobile app developer** who builds intuitive and scalable ap
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,androidstudio,firebase,postman,git,github,vscode" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 </p>
 
 ---
@@ -36,17 +36,19 @@ I’m a passionate **mobile app developer** who builds intuitive and scalable ap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&border_radius=10" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-
 ---
 
-### 📬 Let's Connect
+### 📬 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/mohammadshahid01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohd.shahid4789@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -64,9 +66,3 @@ fun dailyRoutine() {
     }
 }
 ```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=F7971D&style=flat" alt="profile views" />
-</p>
